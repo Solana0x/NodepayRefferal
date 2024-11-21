@@ -35,8 +35,9 @@
 3. ``` pip install -r requirements.txt ```
 4. 获取推荐码，生成账户凭据，获取 2Captcha API Key。
 5. 在 `proxies.txt` 文件中添加多个代理，您可以添加 1000+ 代理！格式为 # `HTTP://username:pass@ip:port`。
-6. 运行脚本 `python main.py`。
-7. 账户数据将保存到 `Accounts.csv` 文件中，请确保保存该文件。
+6. 还需运行 `python accgen.py` 来生成账户
+7. 运行脚本 `python main.py`。
+8. 账户数据将保存到 `Accounts.csv` 文件中，请确保保存该文件。
 
 ## 系统要求
 
