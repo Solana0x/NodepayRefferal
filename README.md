@@ -35,8 +35,9 @@ Before running the script, ensure you have Python installed on your machine. The
 3. ``` pip install -r requirements.txt ```
 4. Get Refferal Codes, Generate Accounts Credentials, Get 2Captcha API Key
 5. Add multiple proxies in the `proxies.txt` file you can add 1000+ proxy !! Formate # `HTTP://username:pass@ip:port`.
-6. To Run Script `python main.py`
-7. Accounts data will be Saved in `Accounts.csv` file make sure to save the FILE.
+6. Also run `python accgen.py` in order to generate accounts
+7. To Run Main Script `python main.py`
+8. Accounts data will be Saved in `Accounts.csv` file make sure to save the FILE.
 
 ## Requirements
 
