@@ -234,7 +234,7 @@ async def main():
     with open('reg.txt', 'r') as f_reg:
         credentials_list = [line.strip() for line in f_reg if line.strip()]
     num_referrals = len(credentials_list)
-    use_proxies = False
+    use_proxies = True
     proxy_manager = None
     
     if use_proxies:
