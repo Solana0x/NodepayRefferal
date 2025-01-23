@@ -15,12 +15,12 @@
 
 1. 打开 2Captcha 链接并注册：[https://2captcha.com/](https://2captcha.com/)
 2. 使用加密货币作为支付方式充值 2-3 美元。
-3. 复制 API Key 并将其粘贴到 `main.py` 文件的 [第 233 行](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L233)。
+3. 复制 API Key 并将其粘贴到 `main.py` 文件的 [第 293 行](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L293)。
 4. ![image](https://github.com/user-attachments/assets/a4375bfe-5bdd-476c-b0c9-3c7627d33dad)
 
 # 获取 NodePay 账户的推荐码并将其添加到数组中！
 
-1. 在 `main.py` 文件的 [第 232 行](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L232) 添加您想要的推荐码。
+1. 在 `main.py` 文件的 [第 286 行](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L286) 添加您想要的推荐码。
 
 # 生成账户凭据
 
