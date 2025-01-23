@@ -15,12 +15,12 @@ This Python Bot script manages Mulit Accounts connections through specified HTTP
 
 1. Open the 2Captacha link and register in [https://2captcha.com/](https://2captcha.com/)
 2. Add Funds 2-3$ Use Crypto as a Payment Method.
-3. Copy the Api Key and paste the Key in the `main.py` file in Line [233](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L233) add your API Key here.
+3. Copy the Api Key and paste the Key in the `main.py` file in Line [293](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L293) add your API Key here.
 4. ![image](https://github.com/user-attachments/assets/a4375bfe-5bdd-476c-b0c9-3c7627d33dad)
 
 # Get Refferal Codes of nodepay account and add it in the Array ! 
 
-1. Go to `main.py` file in the Line `232` write the [Refferals code](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L232) that you wanted to add.
+1. Go to `main.py` file in the Line `286` write the [Refferals code](https://github.com/Solana0x/NodepayRefferal/blob/6913c17f72d4a37de0638d32017b8721f776d826/main.py#L286) that you wanted to add.
 
 # Generate Accounts Credentials
 
